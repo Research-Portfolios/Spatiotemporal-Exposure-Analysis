@@ -1,0 +1,7 @@
+Pollutant,Group,Total gap,Reference group,Comparison group,Pooled (Neumark),Spread
+NO2,Non-Hispanic Black,+2.605,66.4,53.7,68.7,15.01
+NO2,Hispanic or Latino,+4.033,71.6,84.2,80.5,12.62
+NO2,Non-Hispanic Asian,+4.642,70.8,87.2,75.0,16.45
+PM25,Non-Hispanic Black,+1.206,76.9,75.6,79.3,3.69
+PM25,Hispanic or Latino,+0.292,withheld,withheld,withheld,withheld
+PM25,Non-Hispanic Asian,+0.351,36.1,106.8,52.4,70.72

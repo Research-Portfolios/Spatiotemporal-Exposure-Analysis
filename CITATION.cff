@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these results, please cite this repository."
+title: "Spatiotemporal-Exposure-Analysis: air pollution exposure disparities across United States census blocks, 2000-2015"
+type: software
+authors:
+  - family-names: Nikfarjam
+    given-names: Mohsen
+  - family-names: Nikfarjam
+    given-names: Ehsan
+repository-code: "https://github.com/Research-Portfolios/Spatiotemporal-Exposure-Analysis"
+license: MIT
+date-released: "2026-09-18"
+keywords:
+  - air pollution
+  - environmental justice
+  - census blocks
+  - redlining
+  - difference-in-differences
+  - regression discontinuity

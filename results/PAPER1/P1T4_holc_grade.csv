@@ -1,0 +1,15 @@
+Panel,Row,Unit,Value,Population 2010,Blocks
+Grade mean,"A, Best",ppb,10.787,"2,481,323","43,390"
+Grade mean,"B, Still desirable",ppb,13.371,"9,198,671","127,778"
+Grade mean,"C, Declining",ppb,15.470,"19,164,325","235,508"
+Grade mean,"D, Hazardous",ppb,16.982,"10,707,961","135,355"
+Grade mean,D minus A contrast,ppb,+6.20,--,--
+Within city,"A, Best",ppb,-1.911,--,--
+Within city,"B, Still desirable",ppb,-0.801,--,--
+Within city,"C, Declining",ppb,+0.102,--,--
+Within city,"D, Hazardous",ppb,+0.947,--,--
+Within city,D minus A contrast,ppb,"+2.86 [+2.22, +3.52]",--,--
+Between city,D minus A remainder,ppb,+3.34,--,--
+Graded-area gap,Non-Hispanic Black,ppb,+1.829,--,--
+Graded-area gap,Hispanic or Latino,ppb,+4.503,--,--
+Graded-area gap,Non-Hispanic Asian,ppb,+4.662,--,--

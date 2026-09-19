@@ -1,0 +1,22 @@
+Pollutant,Unit,Weighting,Spatial scale,theta per year,SE cluster county,SE Conley 200 km,CI low,CI high,Excludes zero,Share of total
+,,,,conc/year,conc/year,conc/year,conc/year,conc/year,,percent
+NO2,ppb,population weighted,total,-0.25407,0.05681,0.07057,-0.39238,-0.11575,yes,100.0
+NO2,ppb,population weighted,long range,0.02268,0.00899,0.01484,-0.00640,0.05176,no,-8.9
+NO2,ppb,population weighted,mid range,-0.17453,0.03766,0.04462,-0.26199,-0.08707,yes,68.7
+NO2,ppb,population weighted,neighborhood,-0.09031,0.01744,0.02221,-0.13385,-0.04677,yes,35.5
+NO2,ppb,population weighted,near source,-0.01191,0.00241,0.00328,-0.01834,-0.00549,yes,4.7
+NO2,ppb,unweighted,total,-0.17890,0.02994,0.03962,-0.25655,-0.10125,yes,100.0
+NO2,ppb,unweighted,long range,0.02818,0.00619,0.00943,0.00970,0.04665,yes,-15.8
+NO2,ppb,unweighted,mid range,-0.11124,0.01941,0.02320,-0.15671,-0.06576,yes,62.2
+NO2,ppb,unweighted,neighborhood,-0.08532,0.00927,0.01213,-0.10909,-0.06155,yes,47.7
+NO2,ppb,unweighted,near source,-0.01052,0.00139,0.00198,-0.01439,-0.00665,yes,5.9
+PM25,ug/m3,population weighted,total,-0.09837,0.05048,0.06408,-0.22396,0.02722,no,withheld
+PM25,ug/m3,population weighted,long range,0.03722,0.01212,0.01767,0.00258,0.07185,yes,withheld
+PM25,ug/m3,population weighted,mid range,-0.09407,0.03388,0.04380,-0.17993,-0.00822,yes,withheld
+PM25,ug/m3,population weighted,neighborhood,-0.03297,0.01146,0.01401,-0.06043,-0.00551,yes,withheld
+PM25,ug/m3,population weighted,near source,-0.00854,0.00141,0.00186,-0.01220,-0.00489,yes,withheld
+PM25,ug/m3,unweighted,total,-0.05606,0.02520,0.03423,-0.12316,0.01103,no,withheld
+PM25,ug/m3,unweighted,long range,0.03515,0.00975,0.01390,0.00790,0.06240,yes,withheld
+PM25,ug/m3,unweighted,mid range,-0.06070,0.01674,0.02268,-0.10516,-0.01624,yes,withheld
+PM25,ug/m3,unweighted,neighborhood,-0.02548,0.00554,0.00735,-0.03990,-0.01107,yes,withheld
+PM25,ug/m3,unweighted,near source,-0.00503,0.00099,0.00143,-0.00784,-0.00222,yes,withheld

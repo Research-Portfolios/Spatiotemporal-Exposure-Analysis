@@ -1,0 +1,24 @@
+Specification,Parameter,Unit,Post-period mean,Post years excluding zero,Pre-period mean absolute,Pre years excluding zero,Post-period range
+,,,conc,count,conc,count,conc
+"County, strict coding, population weighted",beta (effect at minority share zero),ppb,-1.587,12 of 12,0.204,1 of 3,-2.393 to -0.274
+"County, strict coding, population weighted",ATT (average over treated blocks),ppb,-1.287,11 of 12,0.242,1 of 3,-2.003 to 0.054
+"County, strict coding, population weighted","gamma (distributional), withheld",ppb,0.754,2 of 12,0.228,0 of 3,0.035 to 1.409
+"County, strict coding, unweighted",beta (effect at minority share zero),ppb,-1.640,12 of 12,0.176,1 of 3,-2.448 to -0.244
+"County, strict coding, unweighted",ATT (average over treated blocks),ppb,-1.623,11 of 12,0.219,1 of 3,-2.428 to -0.176
+"County, strict coding, unweighted","gamma (distributional), withheld",ppb,0.058,1 of 12,0.178,0 of 3,-0.332 to 0.388
+"County, inclusive coding, population weighted",beta (effect at minority share zero),ppb,-1.323,12 of 12,0.126,0 of 3,-1.967 to -0.248
+"County, inclusive coding, population weighted",ATT (average over treated blocks),ppb,-1.782,11 of 12,0.289,1 of 3,-2.826 to -0.197
+"County, inclusive coding, population weighted","gamma (distributional), withheld",ppb,-1.085,8 of 12,0.619,1 of 3,-2.505 to 0.356
+"County, inclusive coding, unweighted",beta (effect at minority share zero),ppb,-1.535,12 of 12,0.099,1 of 3,-2.298 to -0.273
+"County, inclusive coding, unweighted",ATT (average over treated blocks),ppb,-1.784,12 of 12,0.259,1 of 3,-2.687 to -0.319
+"County, inclusive coding, unweighted","gamma (distributional), withheld",ppb,-0.772,7 of 12,0.516,2 of 3,-1.871 to 0.214
+"Block level, population weighted",beta (effect at minority share zero),ppb,-1.356,12 of 12,0.134,0 of 3,-2.024 to -0.261
+"Block level, population weighted",ATT (average over treated blocks),ppb,-1.805,11 of 12,0.294,1 of 3,-2.863 to -0.205
+"Block level, population weighted","gamma (distributional), withheld",ppb,-1.056,8 of 12,0.616,1 of 3,-2.445 to 0.367
+"Block level, unweighted",beta (effect at minority share zero),ppb,-1.576,12 of 12,0.111,1 of 3,-2.341 to -0.284
+"Block level, unweighted",ATT (average over treated blocks),ppb,-1.821,12 of 12,0.265,1 of 3,-2.751 to -0.329
+"Block level, unweighted","gamma (distributional), withheld",ppb,-0.752,7 of 12,0.518,2 of 3,-1.828 to 0.220
+"Within-county variation only, population weighted",beta (effect at minority share zero),ppb,-1.776,12 of 12,0.190,0 of 3,-2.902 to -0.607
+"Within-county variation only, population weighted","gamma (distributional), withheld",ppb,-1.218,2 of 12,1.132,1 of 3,-2.370 to 0.011
+"Within-county variation only, unweighted",beta (effect at minority share zero),ppb,-1.705,12 of 12,0.206,0 of 3,-2.809 to -0.485
+"Within-county variation only, unweighted","gamma (distributional), withheld",ppb,-1.381,8 of 12,0.823,1 of 3,-2.413 to -0.369

@@ -1,0 +1,7 @@
+Quantity,Value
+"Census blocks (contiguous 48 states and DC, 2010 geography)","6,234,988"
+"Residents in the frame, 2010","306,675,006"
+Years in the annual panel,2000-2015
+Block-year observations per pollutant,"99,759,808"
+Blocks inside digitized HOLC polygons,"547,378"
+HOLC city maps,223

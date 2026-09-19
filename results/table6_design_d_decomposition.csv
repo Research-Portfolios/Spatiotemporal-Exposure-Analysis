@@ -1,0 +1,12 @@
+Pollutant,Group,Unit,Total change 2000-2010,"Concentration term, range","Composition term, range","Composition share, range"
+,,,conc,conc,conc,percent
+NO2,Entire population,ppb,-5.132,-4.929 to -4.797,-0.336 to -0.203,3.96 to 6.54
+NO2,Non-Hispanic White,ppb,-4.720,-4.468 to -4.305,-0.415 to -0.252,5.34 to 8.79
+NO2,Non-Hispanic Black,ppb,-5.852,-5.307 to -5.082,-0.770 to -0.545,9.32 to 13.15
+NO2,Hispanic or Latino,ppb,-7.574,-6.513 to -6.016,-1.558 to -1.061,14.01 to 20.58
+NO2,Non-Hispanic Asian,ppb,-7.696,-6.980 to -6.588,-1.108 to -0.716,9.30 to 14.39
+PM25,Entire population,ug/m3,-3.748,-3.651 to -3.639,-0.109 to -0.097,2.59 to 2.90
+PM25,Non-Hispanic White,ug/m3,-3.512,-3.399 to -3.398,-0.115 to -0.113,3.23 to 3.26
+PM25,Non-Hispanic Black,ug/m3,-4.182,-4.026 to -4.010,-0.172 to -0.156,3.73 to 4.12
+PM25,Hispanic or Latino,ug/m3,-4.464,-4.294 to -4.119,-0.346 to -0.170,3.81 to 7.75
+PM25,Non-Hispanic Asian,ug/m3,-4.973,-4.821 to -4.704,-0.269 to -0.152,3.05 to 5.41

@@ -1,0 +1,7 @@
+Pollutant,Group,Unit,Total gap,Long range,Long range pct,Mid range,Mid range pct,Neighborhood,Neighborhood pct,Near source,Near source pct
+NO2,Non-Hispanic Black,ppb,+2.605,+0.0559,2.1,+0.9848,37.8,+1.1829,45.4,+0.3814,14.6
+NO2,Hispanic or Latino,ppb,+4.033,+0.0615,1.5,+1.6517,41.0,+1.7858,44.3,+0.5340,13.2
+NO2,Non-Hispanic Asian,ppb,+4.642,+0.0492,1.1,+1.7917,38.6,+2.1228,45.7,+0.6781,14.6
+PM25,Non-Hispanic Black,ug/m3,+1.206,+0.4796,39.8,+0.3776,31.3,+0.2671,22.1,+0.0817,6.8
+PM25,Hispanic or Latino,ug/m3,+0.292,-0.8904,withheld,+0.7690,withheld,+0.3741,withheld,+0.0390,withheld
+PM25,Non-Hispanic Asian,ug/m3,+0.351,-0.8911,withheld,+0.7893,withheld,+0.4520,withheld,+0.0005,withheld

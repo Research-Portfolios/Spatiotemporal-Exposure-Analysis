@@ -1,0 +1,26 @@
+NAAQS,Outcome,Unit,Coding,Weighting,Parameter,Post-period mean,Post years excluding zero,Pre-period mean absolute,Pre years excluding zero
+,,,,,,conc,count,conc,count
+8-Hour Ozone (1997),NO2,ppb,strict whole county,population weighted,beta (effect at minority share zero),-1.587,12 of 12,0.204,1 of 3
+8-Hour Ozone (1997),NO2,ppb,strict whole county,population weighted,ATT (average over treated blocks),-1.287,11 of 12,0.242,1 of 3
+8-Hour Ozone (1997),NO2,ppb,strict whole county,population weighted,"gamma (distributional), withheld",0.754,2 of 12,0.228,0 of 3
+8-Hour Ozone (1997),NO2,ppb,strict whole county,unweighted,beta (effect at minority share zero),-1.640,12 of 12,0.176,1 of 3
+8-Hour Ozone (1997),NO2,ppb,strict whole county,unweighted,ATT (average over treated blocks),-1.623,11 of 12,0.219,1 of 3
+8-Hour Ozone (1997),NO2,ppb,strict whole county,unweighted,"gamma (distributional), withheld",0.058,1 of 12,0.178,0 of 3
+8-Hour Ozone (1997),NO2,ppb,inclusive part or whole,population weighted,beta (effect at minority share zero),-1.323,12 of 12,0.126,0 of 3
+8-Hour Ozone (1997),NO2,ppb,inclusive part or whole,population weighted,ATT (average over treated blocks),-1.782,11 of 12,0.289,1 of 3
+8-Hour Ozone (1997),NO2,ppb,inclusive part or whole,population weighted,"gamma (distributional), withheld",-1.085,8 of 12,0.619,1 of 3
+8-Hour Ozone (1997),NO2,ppb,inclusive part or whole,unweighted,beta (effect at minority share zero),-1.535,12 of 12,0.099,1 of 3
+8-Hour Ozone (1997),NO2,ppb,inclusive part or whole,unweighted,ATT (average over treated blocks),-1.784,12 of 12,0.259,1 of 3
+8-Hour Ozone (1997),NO2,ppb,inclusive part or whole,unweighted,"gamma (distributional), withheld",-0.772,7 of 12,0.516,2 of 3
+PM-2.5 (2006),PM25,ug/m3,strict whole county,population weighted,beta (effect at minority share zero),-0.663,7 of 7,0.587,7 of 8
+PM-2.5 (2006),PM25,ug/m3,strict whole county,population weighted,ATT (average over treated blocks),-0.803,6 of 7,0.381,3 of 8
+PM-2.5 (2006),PM25,ug/m3,strict whole county,population weighted,"gamma (distributional), withheld",-0.317,1 of 7,0.595,2 of 8
+PM-2.5 (2006),PM25,ug/m3,strict whole county,unweighted,beta (effect at minority share zero),-0.777,7 of 7,0.623,7 of 8
+PM-2.5 (2006),PM25,ug/m3,strict whole county,unweighted,ATT (average over treated blocks),-0.848,7 of 7,0.589,7 of 8
+PM-2.5 (2006),PM25,ug/m3,strict whole county,unweighted,"gamma (distributional), withheld",-0.210,2 of 7,0.357,1 of 8
+PM-2.5 (2006),PM25,ug/m3,inclusive part or whole,population weighted,beta (effect at minority share zero),-0.585,7 of 7,0.325,3 of 8
+PM-2.5 (2006),PM25,ug/m3,inclusive part or whole,population weighted,ATT (average over treated blocks),-0.980,7 of 7,0.932,6 of 8
+PM-2.5 (2006),PM25,ug/m3,inclusive part or whole,population weighted,"gamma (distributional), withheld",-0.829,5 of 7,1.310,5 of 8
+PM-2.5 (2006),PM25,ug/m3,inclusive part or whole,unweighted,beta (effect at minority share zero),-0.737,7 of 7,0.423,5 of 8
+PM-2.5 (2006),PM25,ug/m3,inclusive part or whole,unweighted,ATT (average over treated blocks),-0.905,7 of 7,0.786,6 of 8
+PM-2.5 (2006),PM25,ug/m3,inclusive part or whole,unweighted,"gamma (distributional), withheld",-0.462,3 of 7,1.051,4 of 8

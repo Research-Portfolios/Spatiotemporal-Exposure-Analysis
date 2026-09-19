@@ -1,0 +1,8 @@
+Input,Provider,Citation
+Annual NO2 and PM2.5 concentration model,CACES empirical geographic regression,"Kim et al. (2020), PLOS ONE 15(2): e0228535"
+"Four-scale decomposition, census block level, 2000-2015","Mendeley Data, doi:10.17632/bz8pdbcvf2.3 (Wang, 2022)","Wang et al. (2020), Atmospheric Environment 241: 117470"
+"Census block population by race and ethnicity, 2010",IPUMS NHGIS,Manson et al. (2024)
+HOLC security-grade polygons,"Mapping Inequality, University of Richmond",Nelson et al. (2023)
+Primary jobs by home block and work block (LODES version 7.5),"U.S. Census Bureau, LEHD",U.S. Census Bureau (2021)
+Nonattainment designations,U.S. EPA Green Book,U.S. Environmental Protection Agency
+Daily wildfire smoke PM2.5,"Harvard Dataverse, doi:10.7910/DVN/DJVMTV","Childs et al. (2022), Environmental Science and Technology 56(19)"

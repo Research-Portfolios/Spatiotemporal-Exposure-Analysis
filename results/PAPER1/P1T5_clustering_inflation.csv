@@ -1,0 +1,7 @@
+Pollutant,Group,Unit,Block-independent SE (invalid),County-clustered SE,State-clustered SE,County / naive,State / naive
+NO2,Non-Hispanic Black,ppb,0.0123,0.3484,0.5945,28.3,48.3
+NO2,Hispanic or Latino,ppb,0.0125,0.8467,0.9889,67.7,79.1
+NO2,Non-Hispanic Asian,ppb,0.0179,0.7809,0.7500,43.6,41.8
+PM25,Non-Hispanic Black,ug/m3,0.0035,0.0935,0.1798,26.4,50.7
+PM25,Hispanic or Latino,ug/m3,0.0037,0.2292,0.3241,61.8,87.5
+PM25,Non-Hispanic Asian,ug/m3,0.0041,0.1772,0.1905,43.4,46.6

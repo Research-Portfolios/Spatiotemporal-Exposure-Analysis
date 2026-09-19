@@ -1,0 +1,18 @@
+Pollutant,Unit,Specification,Group,theta per year,SE Conley 200 km,CI low,CI high,Excludes zero
+,,,,conc/year,conc/year,conc/year,conc/year,
+NO2,ppb,separate,Non-Hispanic Black,-0.10769,0.04517,-0.19623,-0.01916,yes
+NO2,ppb,separate,Non-Hispanic Asian,-0.70723,0.17411,-1.04847,-0.36599,yes
+NO2,ppb,separate,Hispanic or Latino,-0.26889,0.11006,-0.48459,-0.05318,yes
+NO2,ppb,separate,"All other than non-Hispanic White, pooled",-0.25407,0.07057,-0.39238,-0.11575,yes
+PM25,ug/m3,separate,Non-Hispanic Black,-0.11617,0.03024,-0.17544,-0.05689,yes
+PM25,ug/m3,separate,Non-Hispanic Asian,-0.32141,0.15140,-0.61815,-0.02468,yes
+PM25,ug/m3,separate,Hispanic or Latino,-0.04158,0.11627,-0.26946,0.18630,no
+PM25,ug/m3,separate,"All other than non-Hispanic White, pooled",-0.09837,0.06408,-0.22396,0.02722,no
+NO2,ppb,joint,Non-Hispanic Black,-0.15841,0.03779,-0.23248,-0.08434,yes
+NO2,ppb,joint,Non-Hispanic Asian,-0.73093,0.17162,-1.06730,-0.39455,yes
+NO2,ppb,joint,Hispanic or Latino,-0.27691,0.10707,-0.48677,-0.06705,yes
+NO2,ppb,joint,All other non-White,0.07418,0.05164,-0.02703,0.17538,no
+PM25,ug/m3,joint,Non-Hispanic Black,-0.13215,0.02129,-0.17388,-0.09042,yes
+PM25,ug/m3,joint,Non-Hispanic Asian,-0.35091,0.14756,-0.64011,-0.06170,yes
+PM25,ug/m3,joint,Hispanic or Latino,-0.04775,0.11437,-0.27191,0.17641,no
+PM25,ug/m3,joint,All other non-White,0.23511,0.03815,0.16034,0.30988,yes
