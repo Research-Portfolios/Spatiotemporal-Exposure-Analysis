@@ -55,7 +55,8 @@ Air pollution exposure disparities by race, ethnicity and historical redlining g
 | `results/` | Aggregated publication tables (CSV); no block-level rows and no source extracts |
 | `docs/data_sources.md` | Inputs, providers, citations, licenses and access |
 
-Rendered views: [nbviewer](https://nbviewer.org/github/Research-Portfolios/Spatiotemporal-Exposure-Analysis/blob/main/Spatiotemporal_Analysis_Overview.ipynb) and [Google Colab](https://colab.research.google.com/github/Research-Portfolios/Spatiotemporal-Exposure-Analysis/blob/main/Spatiotemporal_Analysis_Overview.ipynb).
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Research-Portfolios/Spatiotemporal-Exposure-Analysis/blob/main/Spatiotemporal_Analysis_Overview.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Research-Portfolios/Spatiotemporal-Exposure-Analysis/blob/main/Spatiotemporal_Analysis_Overview.ipynb)
 
 ## Scope
 
